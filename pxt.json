@@ -9,6 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json"
+        "space-invaders/lesson-1.md"
     ],
     "testFiles": [
         "test.ts"
